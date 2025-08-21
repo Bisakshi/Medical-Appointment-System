@@ -4,6 +4,7 @@ An interactive Medical Appointment Booking System built with Python, ttkbootstra
 The system allows patients to register, log in, and book appointments with doctors, while doctors/admins can manage schedules, approve, or cancel appointments through a dedicated portal.
 
 ✨ Features
+
 	•	👩‍⚕️ Patient Portal
 	•	Register and log in
 	•	Book appointments with available doctors
@@ -21,6 +22,7 @@ The system allows patients to register, log in, and book appointments with docto
 ⸻
 
 🛠️ Tech Stack
+
 	•	Frontend (GUI): Python Tkinter + ttkbootstrap
 	•	Backend: SQLite/MySQL
 	•	Language: Python 3
